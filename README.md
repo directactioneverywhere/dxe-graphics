@@ -1,4 +1,4 @@
-# DxE Philly Graphics
+# DxE Graphics
 
 This repo contains vector graphics for logos, banners, etc. pertaining to DxE.
 
